@@ -1,0 +1,132 @@
+.partyOrdering {
+    width: 100%;
+}
+
+.partyOrdering_banner {
+    background-image: url('/public/img/main/partyordering/banner_1_po.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+}
+
+.anime_head {
+    padding-top: 100px;
+    font-size: 100px;
+    color: #11733b;
+}
+
+.anime_quotes {
+    font-size: 25px;
+    color: #ffffff
+}
+
+.anime_ordernow_btn {
+    height: 50px;
+    width: 300px;
+    margin-top: 40px;
+    background-color: #f8e3d4;
+    color: #11733b;
+    border: 2px solid #11733b;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    outline: none;
+}
+
+.partyOrdering_container {
+    height: 900px;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.partyOrdering_detail_container {
+    height: 900px;
+    width: 50%;
+    float: left;
+}
+
+.partyOrdering_form_container {
+    height: 900px;
+    width: 50%;
+    padding-top: 20px;
+    background-color: #f8e3d4;
+    border-radius: 2px;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.192);
+    float: left;
+}
+
+.contact_name_label,
+.address_label,
+.mobile_label,
+.email_label,
+.no_of_people_label,
+.d_o_e_label,
+.t_o_e_label,
+.budget_label,
+.service_label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 10%;
+    color: #11733b;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.contact_name_input,
+.address_input,
+.mobile_input,
+.email_input,
+.no_of_people_input,
+.d_o_e_input,
+.t_o_e_input,
+.budget_input,
+.service_input {
+    height: 60px;
+    width: 100%;
+    padding-left: 10px;
+    color: #923b1f;
+    background-color: aliceblue;
+    border: 1px #923b1f;
+    border-radius: 5px;
+    outline: none;
+    font-weight: 600;
+}
+
+.no_of_people_container {
+    width: 49%;
+    float: left;
+}
+
+.d_o_e_container {
+    width: 49%;
+    margin-left: 2%;
+    float: left;
+}
+
+.t_o_e_container {
+    width: 49%;
+    float: left;
+}
+
+.budget_container {
+    width: 49%;
+    margin-left: 2%;
+    float: left;
+}
+
+.submit_btn_po {
+    height: 60px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    background-color: #11733b;
+    border: 1px solid #10572f;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}

@@ -1,0 +1,31 @@
+.brand {
+    width: 100%;
+}
+
+.brand_border {
+    border-top: 1px solid #bebcbb91;
+}
+
+.brand_detail_container {
+    height: 270px;
+    width: 100%;
+}
+
+.contact_container {
+    height: 270px;
+    width: 30%;
+    margin-left: 5%;
+    float: left;
+}
+
+.more_links_container {
+    height: 270px;
+    width: 30%;
+    float: left;
+}
+
+.social_links_container {
+    height: 270px;
+    width: 30%;
+    float: left;
+}

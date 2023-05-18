@@ -1,0 +1,62 @@
+.teaVarieties {
+    height: 640px;
+    width: 100%;
+}
+
+.teaVarieties_container {
+    height: 300px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.teaVariety_container {
+    height: 300px;
+    width: 19%;
+    margin-left: 1%;
+    margin-top: 10px;
+    border: 1px solid #11733b;    
+    /* display: block !important; */
+    float: left;
+}
+
+.teaVariety_img {
+    height: 300px;
+    width: 100%;
+}
+
+.teaVariety_img_src {
+    height: 298px;
+    width: 100%;
+}
+
+.teaVariety_name {
+    height: 1px;
+    position: relative;
+    bottom: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.teaVariety_name_src {
+    height: 50px;
+    width: 100%;
+    padding-top: 10px;
+    background-color: rgba(211, 209, 209, 0.692);
+    font-size: 19px;
+}
+
+/* onFlip */
+
+.onFlip {
+    height: 300px;
+    width: 19%;
+    margin-left: 1%;
+    margin-top: 10px;
+    border: 1px solid #11733b;    
+    /* display: block !important; */
+    float: left;
+}
+
+.d_none {
+    display: none !important;
+}
